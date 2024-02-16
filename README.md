@@ -6,7 +6,7 @@ My Issue got resolved. I have tried to solve it using
 
 This is how I got my issue resolved.
 
-Download the Zip Folder from the provided link. [1]: https://github.com/Ali-Hasan-Khan28/Solved-Error-notebook.notebook.app-Module-Not-Found
+Download the Zip Folder from Repository.
 Unzip the Folder and copy it.
 Open anaconda3/Scripts folder in File Explorer.
 Paste the Folder in anaconda3/Scripts.
